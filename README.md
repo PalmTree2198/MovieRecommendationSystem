@@ -10,8 +10,8 @@
 
 ## Features
 
-❄️ Number of similar movie recommendations - 5.
+❄️ Number of movie recommendations: 5.
 
-❄️Recommended with Movie Poster.
+❄️Recommended with Movie Banner.
 
 ❄️ Vast collection of movies.
